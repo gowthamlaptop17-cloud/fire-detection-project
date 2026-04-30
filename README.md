@@ -11,8 +11,8 @@
 | # | Name                        |ROLL NO   | Contribution |
 |---|-----------------------------|----------|--------------|
 | 1 | BHUKYA SAIDUDLU             |24AI10002 | Research paper explanation — Problem statement & dataset |
-| 2 | SABAVTH ARUN SINGH          |24AI10005 |Research paper explanation — Architecture, CBAM & results |
-| 3 | PAREDDI SAI DINEHS REDDY    |24AI10041 |Code walkthrough — Data pipeline & preprocessing |
+| 2 | SABAVATH ARUN SINGH          |24AI10005 |Research paper explanation — Architecture, CBAM & results |
+| 3 | PAREDDI SAI DINESH REDDY    |24AI10041 |Code walkthrough — Data pipeline & preprocessing |
 | 4 | BOKKA NAVADEEP PAVAN        |24AI10019 |Code walkthrough — Model architectures & training |
 | 5 | METLA GOWTHAM VENKATA MAHESH|24AI10037 |Code walkthrough — Results, ensemble & analysis |
 
@@ -132,9 +132,9 @@ We use the **FLAME** (Fire Luminosity Airborne-based Machine Learning Evaluation
 ## Experimental Results
    
 ### Table 2 Reproduction — Model Comparison
-===========================================================================
+
 OUR RESULTS (Reproduced)
-===========================================================================
+
                Model Freeze  Accuracy   Loss  F1-score  Precision  Recall
             MV2-CBAM     No    0.7450 0.5264    0.5672     0.4812  0.6906
             MV2-CBAM    Yes    0.7128 0.6314    0.5747     0.4478  0.8022
@@ -144,9 +144,9 @@ Original MobileNetV2     No    0.7111 0.7684    0.5787     0.4471  0.8201
 Original MobileNetV2    Yes    0.6667 0.9173    0.5499     0.4084  0.8417
 
 
-===========================================================================
+
 PAPER'S TABLE 2 (Reference)
-===========================================================================
+
                Model Freeze  Accuracy  Loss  F1-score  Precision  Recall
 Original MobileNetV2    Yes    0.8305 0.560     0.855      0.875   0.835
 Original MobileNetV2     No    0.8942 0.397     0.911      0.915   0.907
@@ -159,9 +159,9 @@ Original MobileNetV2     No    0.8942 0.397     0.911      0.915   0.907
 
 ### Table 3 Reproduction — Ensemble Performance
 
-============================================================
+
   TABLE 3: Ensemble Performance Comparison
-============================================================
+
                                    Model Accuracy        Reference
    Shamsoshoara et al. (2021) — Xception   76.23%            Paper
 Ghali et al. (2022) — EfficientNet+Dense   85.12%            Paper
