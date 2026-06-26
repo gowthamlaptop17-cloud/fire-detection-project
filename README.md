@@ -4,19 +4,6 @@
 > Deng et al., *Soft Computing* (2025), 29:2363–2378  
 > DOI: [10.1007/s00500-025-10512-3](https://doi.org/10.1007/s00500-025-10512-3)
 
----
-
-## Team Members
-
-| # | Name                        |ROLL NO   | Contribution |
-|---|-----------------------------|----------|--------------|
-| 1 | BHUKYA SAIDUDLU             |24AI10002 | Research paper explanation — Problem statement & dataset |
-| 2 | SABAVATH ARUN SINGH          |24AI10005 |Research paper explanation — Architecture, CBAM & results |
-| 3 | PAREDDI SAI DINESH REDDY    |24AI10041 |Code walkthrough — Data pipeline & preprocessing |
-| 4 | BOKKA NAVADEEP PAVAN        |24AI10019 |Code walkthrough — Model architectures & training |
-| 5 | METLA GOWTHAM VENKATA MAHESH|24AI10037 |Code walkthrough — Results, ensemble & analysis |
-
----
 
 ## Project Objective
 
